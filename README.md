@@ -7,3 +7,5 @@ This program asks the user for the valeus of:
   - Sources values (if any)
 
 and in exchenges, gives you the equation for a simple RLC circuit, serial or parallel. 
+
+An english verison is provided in this repo, as well as a portuguese one, for my countrymen and countrywomen. 
