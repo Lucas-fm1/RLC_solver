@@ -1,4 +1,4 @@
-# RLC_solver
+# Equivalent RLC Circuit Solver
 This program asks the user for the valeus of:
   - Equivalent resistence;
   - Equivalent capacitance;
